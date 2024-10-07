@@ -2,6 +2,16 @@
 
 next-minix is ​​a more minimalist version of the Next JS framework.
 
+
+_**Usage:**_
+
+Open the terminal and use the 
+```
+npm install
+```
+ command. Your project will be created and if you wish, you can also create the NextJS project with the 
+ ```npm run build``` command.
+
 _**Frameworks:**_
 
 NextJS, React, Tailwind CSS, PostCSS, ESLint, Prettier, TypeScript
