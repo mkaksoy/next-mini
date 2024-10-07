@@ -1,6 +1,6 @@
 ## What is next-mini?
 
-next-minix is ​​a more minimalist version of the Next JS framework.
+next-mini is ​​a more minimalist version of the Next JS framework.
 
 
 _**Usage:**_
